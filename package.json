@@ -2,7 +2,7 @@
   "name": "ttetris",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/HamadAli248/Tetris-Game.git",
+  "homepage": "https://HamadAli248.github.com/Tetris-Game.git",
   "dependencies": {
     "gh-pages": "^2.1.1",
     "react": "^16.9.0",
