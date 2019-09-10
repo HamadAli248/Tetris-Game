@@ -1,1 +1,0 @@
-{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,KAEE,QACF,CAEA,WACE,kBAAqB,CACrB,2FACF","file":"main.0335de7c.chunk.css","sourcesContent":["body {\n\n  margin: 0;\n}\n\n@font-face {\n  font-family: 'Pixcel';\n  src: url('font/Pixel-LCD-7.woff') format('Woff')\n}"]}
